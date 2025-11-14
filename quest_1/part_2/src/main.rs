@@ -104,5 +104,5 @@ fn get_name(
         }
     }
 
-    return Some(names[counter].clone());
+    Some(names[counter].clone())
 }

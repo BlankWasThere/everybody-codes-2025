@@ -105,5 +105,5 @@ fn get_name(
         names.swap(0, target);
     }
 
-    return Some(names[0].clone());
+    Some(names[0].clone())
 }
