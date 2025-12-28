@@ -1,1 +1,5 @@
+# Rust build
 target/
+
+# Input files
+input_*.txt
